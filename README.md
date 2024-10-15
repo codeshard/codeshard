@@ -7,8 +7,3 @@
   <a href="https://twitter.com/codeshard"><img src="https://img.shields.io/twitter/follow/codeshard?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/ozkar-garcell-9a2ab1b7"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-<p align="center">
-  <a href="https://profile.codersrank.io/user/codeshard/"><img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeshard&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px&width=240"
-/></a>
-</p>
